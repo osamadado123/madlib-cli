@@ -4,6 +4,7 @@
 # to run my app use this command
 ### python madlib_cli/madlib.py
 # to test my app use this command
-### pytest -s
+### pytest 
 # pull request
 ### [my pull request](https://github.com/osamadado123/madlib-cli/pull/2)
+
