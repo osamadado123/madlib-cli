@@ -4,4 +4,4 @@
 # to run my app use this command
 ### python madlib_cli/madlib.py
 # to test my app use this command
-### pytest -s
+### pytest 
